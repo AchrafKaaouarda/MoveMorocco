@@ -57,5 +57,4 @@ php artisan serve  # Laravel backend
 /backend    → Laravel API  
 /database   → SQL scripts
 ```
----
-## features 
+--- 
